@@ -1,0 +1,279 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.header_div_child
+{
+    
+    width: 23%;
+    height: 100px; 
+    display:inline-block;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    margin: 30PX 53PX;
+
+    
+
+}
+.header_div_child h1{
+font-size:60px;
+letter-spacing: 2px;
+}
+
+.header_buttons
+{
+    color:white;
+    height: 40px;
+    width: 100px;
+    border: 1px solid white;
+    background-color: inherit;
+    border-radius: 5px;
+    position: relative;
+    left: 20px;
+    
+}
+.header_div_child li
+{
+    list-style: none;
+    color: white;
+    display: inline;
+    border-right: 1px solid white;
+    padding: 5px;
+  
+}
+
+
+.header_div_child button
+{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    margin:0 auto;
+    width:82%;
+    border:1px solid black;
+}
+header
+{
+    background-color: cornflowerblue;
+    height: 250px;
+   
+}
+
+.header_pt1_button_1
+{
+    width: 100px;
+    height: 40px;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    background-color:cornflowerblue ;
+    border-style: outset;
+}
+
+nav
+{
+    background-color: darkblue;
+    text-align: center;
+}
+.nav
+{
+    
+    padding:20px 20px;
+
+    
+}
+nav li:nth-last-child(1)
+{
+    border-right:0px  solid white;
+}
+.nav>li
+{
+    display: inline;
+    list-style: none;
+    color: white;
+    padding: 20px 50px;
+    border-right:1px solid white;
+    
+
+}
+.image
+{
+background-image: url("techkaro.png");
+background-position: center;
+background-repeat: no-repeat;
+height: 400px;
+
+}
+
+.section_buttons
+{
+    padding:25px;
+
+}
+.section_para
+{
+    color: rgb(110, 110, 214);
+    position: relative;
+    left: 110px;
+    bottom: 70px;
+}
+.section_buttons_buttons
+{
+    color: turquoise;
+    width: 200px;
+    height:50px;
+    font-weight: bold;
+    font-size: 15px;
+    border-color: turquoise;
+    background-color: white;
+    margin-left: 80px;
+    border-radius: 25px;
+}
+.section_h1
+{
+    font-size: 35px;
+}
+.section_div_div
+{
+    border: 20px solid white;
+    width: 20%;
+    display:table-cell;
+    background-color: whitesmoke;
+   
+
+}
+.section_div_div_para1
+{
+    color: rgb(77, 170, 201);
+    font-size: 40px;
+    padding: 30px;
+    
+   
+}
+.section_div_div_para2
+{
+    padding-top:20px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+}
+#blue_div
+{
+    background-color: rgb(76, 161, 189);
+    height: 250px;
+}
+#blue_div p
+{
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 30px;
+}
+#button_div{
+    background-color: white;
+}
+#purple_div
+{
+    background-color: purple;
+    
+}
+#purple_div p
+{
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 40px;
+    
+}
+.section_div_green
+{
+    background-color: yellowgreen;
+    width: 100%;
+    height: 150px;
+}
+.section_div_green_main_para_1
+{
+    font-size: 50px;
+    color: white;
+    padding:35px 40px;
+}
+.section_div_green_main_para_2
+{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left: 450px;
+    bottom:80px;
+    
+}
+footer
+{
+    background-color:rgb(52, 57, 61);
+    color: white;
+}
+.footer_div_2
+{
+text-align: center;
+margin: 0 auto;
+height: 400px;
+width: 90%;
+}
+.footer_div_2 p
+{
+    padding-top: 90px;
+}
+.footer_div_1_div
+{
+    
+    width: 17%;
+    display:table-cell;
+    padding:40px;
+    
+}
+.footer_ul li
+{
+    list-style: none;
+    color: rgb(218, 214, 214);
+    font-weight: bold;
+    padding-top: 5px;
+}
+.footer_para
+{
+    
+    font-weight: bold;
+   font-size: 22px;
+}
+.section_div_div_3_child
+{
+    border-color: 1px sold black;
+    background-color: cadetblue;
+    width: 100%;
+    height: 50px;
+    
+}
+.section_button
+{
+    height: 100px;
+    width: 90px;
+    border: 2px solid rgb(227, 241, 227);
+    color: green;
+}
+.header_div_child .fa
+{
+   padding-right: 5px;
+   color: rgb(227, 241, 227);
+}
+
+.footer_div_contentLeft
+{
+    text-align: left;
+    padding-top: 30px;
+}
+.footer_div_contentLeft li
+{
+    padding-top: 5px;
+    list-style: none;
+    color: rgb(218, 214, 214);
+}
